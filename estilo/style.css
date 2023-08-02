@@ -32,25 +32,26 @@ header {
    background-color: black;
    color: white;
    text-align: center;
-   padding-bottom: 70px;
+   
 }
 header > h1 {
    padding-top: 50px;
    font-variant: small-caps;
    font-family: var(--fonte3);
-   font-size: 3.5em;
+   font-size: 4.5em;
 }
-header >h2 {
+header > h2 {
    font-size: 1.5em;
+   padding-bottom: 70px;
 }
 header > p {
-    padding-bottom: 50px;
+   padding-bottom: 50px
 }
 header a, footer a {
    text-decoration: underline;
    color:white;
    font-family: var(--fonte2);
-   font-size: 1.5em;
+   font-size: 1em;
 }
 
 
@@ -58,7 +59,7 @@ section {
    padding-top: 10vh;
    padding-bottom: 10vh;
    line-height: 2em;
-   padding-left: 90px;
+   padding-left: 80px;
    font-family: var(--fonte1);
    font-size: 1.5em;
 }
@@ -78,7 +79,7 @@ section.imagem {
 }
 section.imagem > p {
    padding: 20px;
-   width: 400px;
+   width: 190px;
    background-color: rgba(0, 0, 0, 0.514);
    text-shadow: 1px, 1px 0px;
    border-radius: 20px;
@@ -99,7 +100,7 @@ footer {
    padding-top: 8px;
    padding-bottom: 8px;
    font-family: var(--fonte2);
-   font-size: 2em;
+   font-size: 1.5em;
 }
 footer a {
    text-decoration: underline;
