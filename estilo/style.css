@@ -96,11 +96,10 @@ footer {
    background-color: black;
    color: white;
    text-align: center;
-   padding-top: 10px;
-   padding-bottom: 10px;
+   padding-top: 8px;
+   padding-bottom: 8px;
    font-family: var(--fonte2);
    font-size: 2em;
-   
 }
 footer a {
    text-decoration: underline;
