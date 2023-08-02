@@ -45,7 +45,7 @@ header > h2 {
    padding-bottom: 70px;
 }
 header > p {
-   padding-bottom: 50px
+   padding-bottom: 50px;
 }
 header a, footer a {
    text-decoration: underline;
@@ -59,7 +59,7 @@ section {
    padding-top: 10vh;
    padding-bottom: 10vh;
    line-height: 2em;
-   padding-left: 80px;
+   padding-left: 90px;
    font-family: var(--fonte1);
    font-size: 1.5em;
 }
@@ -100,7 +100,7 @@ footer {
    padding-top: 8px;
    padding-bottom: 8px;
    font-family: var(--fonte2);
-   font-size: 1.5em;
+   font-size: 1.7em;
 }
 footer a {
    text-decoration: underline;
